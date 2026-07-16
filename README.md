@@ -4,7 +4,7 @@
 
  :octocat: ***About me***
 
-I’m a Programming student, currently in the final year of my degree at UTN. I’m passionate about learning and always strive to improve myself. I’m expanding my knowledge in both front-end and back-end development, with a focus on building functional and creative solutions.
+I'm a graduate of the Programming degree at UTN, currently pursuing Data Science and Web Development at UNDEC. Passionate about AI, automation, and building functional solutions — always learning and looking for the next challenge.
 - 🌱 Currently learning:
 
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
