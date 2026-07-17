@@ -4,7 +4,7 @@
 
 ### :octocat: ***About me***
 
-Técnico Universitario en Programación (UTN), actualmente cursando Tec. en Ciencia de Datos y Tec. en Desarrollo Web (UNDEC). Me apasiona la IA, la automatización y el desarrollo web — siempre aprendiendo y buscando el próximo desafío.
+University Programming degree (UTN), currently pursuing Data Science and Web Development degrees (UNDEC). Passionate about AI, automation, and web development — always learning and looking for the next challenge.
 
 - :briefcase: **Currently looking for new opportunities** in AI, web development, and automation
 - :seedling: **Currently learning:**
@@ -13,12 +13,12 @@ Técnico Universitario en Programación (UTN), actualmente cursando Tec. en Cien
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine">
 
-- :video_game: I'm also an indie game developer as a hobby, enjoying the process of creating original and interactive experiences.
+- :video_game: Indie game developer as a hobby — I enjoy creating original and interactive experiences.
 - :email: Reach me at: <a href="mailto:suarezjoaco22@gmail.com">suarezjoaco22@gmail.com</a>
 
 ---
 
-## :wrench: My Skills Include
+## :wrench: Skills
 
 <h4> Languages </h4>
 <span>
@@ -55,23 +55,25 @@ Técnico Universitario en Programación (UTN), actualmente cursando Tec. en Cien
 <span>
   <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=white">
 </span>
 
 ---
 
 ## :mortar_board: Education
 
-- **Tec. Universitario en Programación** — UTN (2022–2025)
-- **Tec. en Ciencia de Datos** — UNDEC (2026–Presente)
-- **Tec. en Desarrollo Web** — UNDEC (2026–Presente)
+- **University Programming Degree** — UTN (2022–2025)
+- **Data Science Degree** — UNDEC (2026–Present)
+- **Web Development Degree** — UNDEC (2026–Present)
 
 ---
 
-## :link: Check out my Social Media
+## :link: Social
 
 <a href="https://www.linkedin.com/in/joaquinsuarez/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://joacosuarez.com.ar/">
+    <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
 </a>
 <a href="https://joa22.itch.io/">
     <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white">
@@ -79,6 +81,4 @@ Técnico Universitario en Programación (UTN), actualmente cursando Tec. en Cien
 <a href="https://github.com/joaquinSuarez22">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://joacosuarez.com.ar/">
-    <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
-</a>
+
